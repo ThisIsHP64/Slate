@@ -1,4 +1,6 @@
 # Slate
+<img width="200" height="200" alt="logo" src="https://github.com/user-attachments/assets/9b48bf27-5887-4461-9461-2d04b0013d90" />
+
 A work-in-progress emulator for the Nintendo Game Boy (DMG-01) written in Java.
 
 ## But why?
@@ -17,7 +19,8 @@ In order:
 - 4-shade monochrome 160x144 graphics
 - On-screen and keyboard controls
 - 1:1 replica of the APU
-...and not much more. Slate is intended to be a very bare-bones emulator.
+
+...and not much more. Slate is intended to be a bare-bones emulator built for learning purposes.
 
 ## Current progress?
 Right now, Slate is a CPU scaffold with a few opcodes implemented. No support for playing games, audio, or graphics yet - that will come later.
@@ -27,6 +30,8 @@ No. I intend to develop Slate completely independently.
 
 ## What devices will be able to run Slate?
 Anything that can run modern Java (basically every modern PC/Mac can do this).
+
+## Thank you for your support!
 
 I know Slate doesn't look like much right now, but I will see it through, no matter how long that takes.
 
